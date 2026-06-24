@@ -1,7 +1,10 @@
 ![alt text](screen-shots/image.png)
 
+![alt text](screen-shots/stats-102.png)
 
+![alt text](screen-shots/stats-101.png)
 
+![alt text](screen-shots/stats-103.png)
 
 References:
 [Pandas Documentation](https://pandas.pydata.org/)
